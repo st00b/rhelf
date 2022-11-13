@@ -1,2 +1,4 @@
 rhelf
 .vscode
+.gitignore
+./lib/verify.so
